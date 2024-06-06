@@ -1,6 +1,6 @@
-# desafio_01 - sistema bancario - wwassis
+# DESAFIO - sistema bancario - wwassis
 
-## Desafio
+# Desafio_01
 Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema devemos implementar apenas 3 operações: depósito, saque e extrato.
 
 ## Operação de depósito
@@ -14,5 +14,18 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 1500.45 = R$ 1500.45
 
-# desafio_02 - sistema bancario - wwassis
+
+# Desafio_02 - sistema bancario - wwassis
 Melhoria do código do desafio_01 utilizando funções.
+
+
+# Desafio_03 - sistema bancario - wwassis
+
+## Objetivo Geral
+Iniciar a modelagem do sistema bancário em POO. Adicionar classes para cliente e as operações bancárias: depósito e saque.
+
+## Desafio
+Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de IML a seguir.
+
+## Desafio extra
+Após concluir a modelagem das classes e a criação dos métodos. Atualiza os métodos que tratam as opções de menu para funcionarem com as classes modeladas.
